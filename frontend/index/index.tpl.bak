@@ -1,0 +1,5 @@
+{extends file="parent:frontend/index/index.tpl"}
+
+{block name="frontend_plugins_advanced_menu_outer"}
+    Hallo advanced menu
+{/block}
